@@ -1,2 +1,4 @@
 # AppKill
-This a Simple Python Program which kills app from PID Provided
+This a Simple Python Program which shows and  kills application from user required PID.
+
+#updated
